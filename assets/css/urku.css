@@ -1323,7 +1323,7 @@ body {
   text-align: center;
 }
 .item-inside__meta--contrast:before {
-  background-color: rgba(255, 255, 255, .3);
+  background-color: rgba(255, 251, 251, 0.712);
   content: "";
   height: 100%;
   left: 0;
@@ -1351,13 +1351,13 @@ body {
 }
 
 .item-inside-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/3313.jpg");
   background-position: 50% 100%;
   background-size: 350%;
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min-device-pixel-ratio: 1.5) {
   .item-inside-1 {
-    background-image: url("../img/project-1h.jpg");
+    background-image: url("../img/3311.jpg");
   }
 }
 @media (min-width: 40em) {
@@ -1367,7 +1367,7 @@ body {
 }
 
 .post-inside-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/333.jpg");
 }
 
 #layout-grid:checked ~ .rk-portfolio,
@@ -1572,7 +1572,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fenta1.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-1 {
@@ -1581,11 +1581,11 @@ body {
 }
 
 .post-2 {
-  background-image: url("../img/post-2.jpg");
+  background-image: url("../img/fenta2.jpg");
 }
 
 .post-3 {
-  background-image: url("../img/post-3.jpg");
+  background-image: url("../img/fenta3.jpg");
   background-size: 160%;
 }
 @media (min-width: 40em) {
