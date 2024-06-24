@@ -1367,7 +1367,7 @@ body {
 }
 
 .post-inside-1 {
-  background-image: url("../img/333.jpg");
+  background-image: url("../img/fenta1.jpg");
 }
 
 #layout-grid:checked ~ .rk-portfolio,
@@ -1598,11 +1598,11 @@ body {
 }
 
 .post-4 {
-  background-image: url("../img/post-4.jpg");
+  background-image: url("../img/fenta1.jpg");
 }
 
 .post-5 {
-  background-image: url("../img/post-5.jpg");
+  background-image: url("../img/fenta2.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-5 {
@@ -1611,7 +1611,7 @@ body {
 }
 
 .post-6 {
-  background-image: url("../img/post-6.jpg");
+  background-image: url("../img/fenta3.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-6 {
@@ -1642,7 +1642,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fenta1.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
@@ -1651,11 +1651,11 @@ body {
 }
 
 .post-2 {
-  background-image: url("../img/post-2.jpg");
+  background-image: url("../img/fenta2.jpg");
 }
 
 .post-3 {
-  background-image: url("../img/post-3.jpg");
+  background-image: url("../img/fenta3.jpg");
   background-size: 160%;
 }
 @media (min-width: 40em) {
@@ -1668,11 +1668,11 @@ body {
 }
 
 .post-4 {
-  background-image: url("../img/post-4.jpg");
+  background-image: url("../img/fenta1.jpg");
 }
 
 .post-5 {
-  background-image: url("../img/post-5.jpg");
+  background-image: url("../img/fenta2.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-5 {
@@ -1681,7 +1681,7 @@ body {
 }
 
 .post-6 {
-  background-image: url("../img/post-6.jpg");
+  background-image: url("../img/fenta3.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-6 {
@@ -1690,7 +1690,7 @@ body {
 }
 
 .post-7 {
-  background-image: url("../img/post-7.jpg");
+  background-image: url("../img/fenta1.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-7 {
@@ -1699,11 +1699,11 @@ body {
 }
 
 .post-8 {
-  background-image: url("../img/post-8.jpg");
+  background-image: url("../img/fenta2.jpg");
 }
 
 .post-9 {
-  background-image: url("../img/post-9.jpg");
+  background-image: url("../img/fenta3.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-9 {
